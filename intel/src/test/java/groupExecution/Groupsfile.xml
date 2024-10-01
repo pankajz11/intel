@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "group">
+<test name="login">
+<classes>
+     <class name="groupExecution.Test_demo">
+   </class>
+</classes>
+</test>
+</suite>
